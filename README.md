@@ -8,5 +8,5 @@ https://kaseycrocker.github.io/Password-Generator/
 
 ## Screenshot of website
 
-![](Password-generator-screenshot.png
+![](Password-generator-screenshot.png)
 
